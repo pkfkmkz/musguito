@@ -1,7 +1,7 @@
-# musguito
-plants evolution simulation engine
+# Musguito
+Plants evolution simulation engine.
 
-## instructions
+## Instructions
 ```
 pip install -r requirements.txt
 python simulation.py
