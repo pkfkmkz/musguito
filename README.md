@@ -10,3 +10,6 @@ Enter the number of repetitions: 100
 Enter the maximum height of plants in meters: 2
 Enter the maximum diameter of plants in meters: 2
 ```
+
+## Example
+![](images/Figure_1.png?raw=true)
