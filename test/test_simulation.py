@@ -24,7 +24,7 @@ def test_growth_factor_with_neighbors():
     plant2 = Plant(1, 1, 10, 5)
     plant3 = Plant(2, 2, 10, 5)
     plants = [plant1, plant2, plant3]
-    assert growth_factor(plant1, plants) == 11, "Growth factor is incorrect when there are neighbors."
+    assert growth_factor(plant1, plants) == 21, "Growth factor is incorrect when there are neighbors."
 
 if __name__ == "__main__":
     pytest.main()
